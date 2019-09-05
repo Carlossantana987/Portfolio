@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/startbootstrap-creative-gh-pages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/creative.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_portfolio.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +47,7 @@
       <workItem from="1567610442345" duration="8576000" />
       <workItem from="1567619096378" duration="7551000" />
       <workItem from="1567628710384" duration="5939000" />
-      <workItem from="1567693077430" duration="1432000" />
+      <workItem from="1567693077430" duration="1742000" />
     </task>
     <servers />
   </component>
