@@ -10705,6 +10705,13 @@ header.masthead h1 {
   }
 }
 
+img.avatar {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
 #portfolio .container-fluid {
   max-width: 1920px;
 }
