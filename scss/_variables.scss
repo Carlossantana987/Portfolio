@@ -4,11 +4,12 @@
 
 // Set a custom color
 $brown: #5c4d42 !default;
-$purple: #6f42c1!default;
-$yellow: #F7D212 !default;
+$white: #fff!default;
+$purple: #007bff !default;
+$black: #343a40 !default;
 
 // Set primary color to orange
-$primary: $yellow !default;
+$primary: $purple !default;
 
 // Font overrides
 $font-family-sans-serif: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;

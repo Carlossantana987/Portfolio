@@ -6,7 +6,10 @@
       <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Carlos_Santana_Resume (1).pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +31,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -62,7 +66,7 @@
       <workItem from="1567628710384" duration="5939000" />
       <workItem from="1567693077430" duration="6365000" />
       <workItem from="1567709414905" duration="2745000" />
-      <workItem from="1567737823927" duration="7502000" />
+      <workItem from="1567737823927" duration="9839000" />
     </task>
     <servers />
   </component>
