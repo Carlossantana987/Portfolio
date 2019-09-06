@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/Carlos_Santana_Resume (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-    </list>
+    <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +57,7 @@
       <workItem from="1567628710384" duration="5939000" />
       <workItem from="1567693077430" duration="6365000" />
       <workItem from="1567709414905" duration="2745000" />
-      <workItem from="1567737823927" duration="9839000" />
+      <workItem from="1567737823927" duration="10288000" />
     </task>
     <servers />
   </component>
