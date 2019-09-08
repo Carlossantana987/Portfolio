@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Carlos_Santana_Resume.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +25,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
-      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,6 +63,7 @@
       <workItem from="1567709414905" duration="2745000" />
       <workItem from="1567737823927" duration="10926000" />
       <workItem from="1567783238289" duration="4156000" />
+      <workItem from="1567912113425" duration="1471000" />
     </task>
     <servers />
   </component>
