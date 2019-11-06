@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LetsMove" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +74,9 @@
       <workItem from="1567912113425" duration="1471000" />
       <workItem from="1569263790781" duration="36000" />
       <workItem from="1569277067261" duration="173000" />
-      <workItem from="1571143860869" duration="1006000" />
+      <workItem from="1571143860869" duration="1285000" />
+      <workItem from="1571672724832" duration="60000" />
+      <workItem from="1571679271595" duration="21000" />
     </task>
     <servers />
   </component>
