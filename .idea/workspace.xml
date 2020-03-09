@@ -19,7 +19,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LetsMove" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -77,6 +77,8 @@
       <workItem from="1571143860869" duration="1285000" />
       <workItem from="1571672724832" duration="60000" />
       <workItem from="1571679271595" duration="21000" />
+      <workItem from="1573084429380" duration="286000" />
+      <workItem from="1573591568321" duration="16000" />
     </task>
     <servers />
   </component>
