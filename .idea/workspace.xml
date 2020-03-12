@@ -21,15 +21,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
-      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,6 +80,8 @@
       <workItem from="1571679271595" duration="21000" />
       <workItem from="1573084429380" duration="286000" />
       <workItem from="1573591568321" duration="16000" />
+      <workItem from="1583723748005" duration="490000" />
+      <workItem from="1584045651736" duration="1153000" />
     </task>
     <servers />
   </component>
