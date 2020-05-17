@@ -4,6 +4,8 @@
     <list default="true" id="872f855a-d428-4493-8601-a0aca2ea46fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/CarlosSantana_Resume.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Resume_2.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,14 +22,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resume" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
+      <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\carlo\Documents\Lambda Portfolio\Portfolio\resume" />
@@ -83,7 +85,9 @@
       <workItem from="1573591568321" duration="16000" />
       <workItem from="1583723748005" duration="490000" />
       <workItem from="1584045651736" duration="1476000" />
-      <workItem from="1585067101269" duration="2650000" />
+      <workItem from="1585067101269" duration="2864000" />
+      <workItem from="1585332614634" duration="10000" />
+      <workItem from="1589726853673" duration="1061000" />
     </task>
     <servers />
   </component>
