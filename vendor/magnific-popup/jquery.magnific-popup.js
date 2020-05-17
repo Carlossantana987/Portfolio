@@ -1,7 +1,4 @@
-/*! Magnific Popup - v1.1.0 - 2016-02-20
-* http://dimsemenov.com/plugins/magnific-popup/
-* Copyright (c) 2016 Dmitry Semenov; */
-;(function (factory) { 
+;(function (factory) {
 if (typeof define === 'function' && define.amd) { 
  // AMD. Register as an anonymous module. 
  define(['jquery'], factory); 
@@ -103,7 +100,7 @@ var _mfpOn = function(name, f) {
 			$.magnificPopup.instance = mfp;
 		}
 	},
-	// CSS transition detection, http://stackoverflow.com/questions/7264899/detect-css-transitions-using-javascript-and-without-modernizr
+
 	supportsTransitions = function() {
 		var s = document.createElement('p').style, // 's' for style. better to create an element if body yet to exist
 			v = ['ms','O','Moz','Webkit']; // 'v' for vendor
